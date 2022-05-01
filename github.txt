@@ -3,8 +3,8 @@ pwd: ducatindia@123
 username: rakhiprajapati042001
 
 
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "rakhiprajapati042001@gmail.com"
+git config --global user.name "rakhiprajapati042001"
 
 
 https://github.com/rakhiprajapati042001/ducattraining.git
