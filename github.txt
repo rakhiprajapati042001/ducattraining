@@ -1,0 +1,22 @@
+email : rakhiprajapati042001@gmail.com
+pwd: ducatindia@123
+username: rakhiprajapati042001
+
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+https://github.com/rakhiprajapati042001/ducattraining.git
+
+echo "# ducattraining" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rakhiprajapati042001/ducattraining.git
+git push -u origin main
+
+
+
+
